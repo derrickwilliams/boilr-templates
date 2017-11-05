@@ -1,0 +1,7 @@
+{
+    "Name": "basic-go-project",
+    "Author": "Your Name",
+    "Email": "youremail@domain.com",
+    "PrintHomeDir": true,
+    "License": [ "MIT" ]
+}
